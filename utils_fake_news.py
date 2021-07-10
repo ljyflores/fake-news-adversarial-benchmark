@@ -92,21 +92,13 @@ def index_remover(tensordata):
 
 # Labeling Data
 # Target labels
-label_encodings6 = {
-    'pants-fire': 0, 
-    'false':      1, 
-    'barely-true':2, 
-    'half-true':  3, 
-    'mostly-true':4,
-    'true':       5
-}
 label_encodings2 = {
-    'pants-fire': 0, 
-    'false':      0, 
-    'barely-true':0, 
-    'half-true':  0, 
-    'mostly-true':1,
-    'true':       1
+    'barely-true':1, 
+    'false':1, 
+    'half-true':1, 
+    'mostly-true':0, 
+    'pants-fire':0, 
+    'true':0
 }
 
 # Accuracy/Reporting Functions
