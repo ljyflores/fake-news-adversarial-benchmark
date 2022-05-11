@@ -5,3 +5,5 @@ This repository only contains the notebooks used to train the models and evaluat
 The data and models can be found here:
 * Data: https://drive.google.com/drive/folders/10zdrFakmNSOeOmQufYwQvTiESwP8pNyz?usp=sharing
 * Models: https://drive.google.com/drive/folders/1XFoYNmYP-DD3Bj7zg9AXzDT7VmGtf0aG?usp=sharing
+
+Feel free to check out our paper here: https://arxiv.org/abs/2201.00912
