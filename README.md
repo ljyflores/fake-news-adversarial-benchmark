@@ -8,7 +8,7 @@ The data and models can be found here:
 
 Feel free to check out our paper <a href=https://arxiv.org/abs/2201.00912>here</a>, which we presented at <a href=https://advml-workshop.github.io/aaai2022/> Workshop on Adversarial Machine Learning and Beyond at AAAI 2022 </a>! 
 
-If you find our work useful, please cite our paper!
+If you find our work useful, please cite our paper as follows!
 ```
 @misc{https://doi.org/10.48550/arxiv.2201.00912,
   doi = {10.48550/ARXIV.2201.00912},
