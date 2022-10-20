@@ -10,14 +10,14 @@ Feel free to check out our paper <a href=https://arxiv.org/abs/2201.00912>here</
 
 If you find our work useful, please cite our paper as follows!
 ```
-@misc{https://doi.org/10.48550/arxiv.2201.00912,
+@misc{flores2022fakenewsbenchmark,
+  author = {Flores, Lorenzo Jaime Yu and Hao, Yiding},
+  title = {An Adversarial Benchmark for Fake News Detection Models},
+  year = {2022},
   doi = {10.48550/ARXIV.2201.00912},
   url = {https://arxiv.org/abs/2201.00912},
-  author = {Flores, Lorenzo Jaime Yu and Hao, Yiding},
   keywords = {Computation and Language (cs.CL), FOS: Computer and information sciences, FOS: Computer and information sciences, I.2.7},
-  title = {An Adversarial Benchmark for Fake News Detection Models},
   publisher = {arXiv},
-  year = {2022},
   copyright = {Creative Commons Attribution 4.0 International}
 }
 ```
