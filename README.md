@@ -8,16 +8,14 @@ The data and models can be found here:
 
 Feel free to check out our paper <a href=https://arxiv.org/abs/2201.00912>here</a>, which we presented at <a href=https://advml-workshop.github.io/aaai2022/> Workshop on Adversarial Machine Learning and Beyond at AAAI 2022 </a>! 
 
-If you find our work useful, please cite our paper as follows!
+If you find our work useful, please consider citing our paper!
 ```
-@misc{flores2022fakenewsbenchmark,
-  author = {Flores, Lorenzo Jaime Yu and Hao, Yiding},
-  title = {An Adversarial Benchmark for Fake News Detection Models},
-  year = {2022},
-  doi = {10.48550/ARXIV.2201.00912},
-  url = {https://arxiv.org/abs/2201.00912},
-  keywords = {Computation and Language (cs.CL), FOS: Computer and information sciences, FOS: Computer and information sciences, I.2.7},
-  publisher = {arXiv},
-  copyright = {Creative Commons Attribution 4.0 International}
+@inproceedings{
+flores2022an,
+title={An Adversarial Benchmark for Fake News Detection Models},
+author={Lorenzo Jaime Yu Flores and Yiding Hao},
+booktitle={The AAAI-22 Workshop on Adversarial Machine Learning and Beyond},
+year={2022},
+url={https://openreview.net/forum?id=n3PMOhS42s6}
 }
 ```
